@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+h1 {
+  font-family: 'Ubuntu', sans-serif;
+  margin: 50px auto 0 auto;
+  font-size: 400%;
+  color: black;
+  line-height: 2;
+}
+
+p {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  color: black;
+  font-weight: normal;
+}
+
+a{
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
+
+}
+
+h3 {
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
+}
+
+.top-container {
+  background-color: #FFA500;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  position: relative;
+  background-color: #FFA500;
+  margin: 50px auto 0 auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.btn {
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: white;
+  font-size: 20px;
+  background: #d9a234;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fcbc3c;
+  text-decoration: none;
+}
+
+.skill-row {
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.profile-pic{
+  position: relative;
+  height:auto;
+  width:300px;
+  margin: 50px auto 10px auto;
+}
+
+.java-logo{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.flag {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width:25%;
+  border-color: grey;
+  border-width:5px;
+}
+
+.footer-link {
+  font-size: 50px;
+}
